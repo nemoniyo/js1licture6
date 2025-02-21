@@ -86,3 +86,4 @@ console.log(rest);  // Output: [2, 3, 4]
 ## Conclusion
 
 Understanding arrays, destructuring, and the spread/rest operators is essential for efficient data manipulation in JavaScript. These tools enable you to write cleaner and more readable code.
+
